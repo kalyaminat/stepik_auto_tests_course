@@ -31,6 +31,6 @@ result.send_keys(y)
 button1 = browser.find_element(By.ID, "solve")
 button1.click()
 
-time.sleep(10)
+time.sleep(8)
 # закрываем браузер после всех манипуляций
 browser.quit()
