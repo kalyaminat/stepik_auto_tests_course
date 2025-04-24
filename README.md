@@ -1,1 +1,3 @@
-https://stepik.org/course/575/syllabus
+## stepik_auto_tests_course
+
+Это репозиторий для хранения домашних заданий курса, обучающего написанию автоматизированных UI-тестов. [Ссылка](https://stepik.org/course/575)
